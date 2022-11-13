@@ -1909,7 +1909,7 @@ button,
   -webkit-appearance: none;
   position: relative;
   display: block;
-  background: #ed786a;
+  background: #ed776a9c;
   color: #fff !important;
   text-transform: uppercase;
   border-radius: 4px;
@@ -1967,7 +1967,7 @@ input[type="submit"].alt:hover,
 input[type="reset"].alt:hover,
 button.alt:hover,
 .button.alt:hover {
-  background: #979797;
+  background: #874b44a1;
 }
 
 input[type="button"].alt:active,
